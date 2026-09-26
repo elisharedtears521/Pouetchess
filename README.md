@@ -214,4 +214,4 @@ pouetChess is the full free version with all features and updates included, ensu
 Download pouetChess now and start enjoying the ultimate chess experience today!
 
 ---
-**Last updated:** 2026-09-25 23:47:59 UTC
+**Last updated:** 2026-09-26 03:28:39 UTC
